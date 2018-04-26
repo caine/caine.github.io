@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /files
+sitemap: https://caine.in/sitemap.xml
+host: caine.in
